@@ -18,11 +18,11 @@ Dit is de planning voor mijn 2 weken.
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | Software analyse en engines testen | Planning maken en leerdoelen invullen | Onderzoek over VR game development in Unity | VR klaar hebben en een basis maken aan de game | Wapen systeem en schiet mechanic maken|
-|week 2 |
+|week 1 | Software analyse, engines testen en Trello aanmaken | Planning maken en leerdoelen invullen | Onderzoek over VR game development in Unity en railway games | VR klaar hebben en een basis maken aan de game | Wapen systeem en schiet mechanic maken|
+|week 2 | Railway systeem maken en implementeren | Enemy spawning en schieten maken en basis UI | Alle menu's maken en UI polishen. | Wapen systeem verbeteren en meerdere wapens maken | Code polishen, README updaten, uploaden naar github en inleveren. |
 
 ## Bronnen
-Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
+De bronnen die ik heb gebruikt voor mijn software analyse:
 
 - [Engine onderzoek](https://www.slant.co/topics/2202/~best-game-engines-for-virtual-reality-development)
 - [Unreal info](https://www.newgenapps.com/blog/unreal-engine-review-pros-cons-suitability)
